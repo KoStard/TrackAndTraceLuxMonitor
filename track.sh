@@ -1,0 +1,1 @@
+watch -n 20 node track.js $1

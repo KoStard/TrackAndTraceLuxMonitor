@@ -1,0 +1,29 @@
+{
+  "name": "trackandtraceluxmonitor",
+  "version": "0.0.1",
+  "description": "Periodically update information from www.trackandtrace.lu/ from CLI! And by using with `watch` you will immedicately see if there is any update!",
+  "main": "track.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoStard/TrackAndTraceLuxMonitor.git"
+  },
+  "keywords": [
+    "luxembourg",
+    "trackandtrace",
+    "cli"
+  ],
+  "author": "KoStard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoStard/TrackAndTraceLuxMonitor/issues"
+  },
+  "homepage": "https://github.com/KoStard/TrackAndTraceLuxMonitor#readme"
+}
