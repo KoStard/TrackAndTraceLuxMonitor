@@ -13,3 +13,8 @@ If you want to get lower level control, then you can easily call the track.js li
 $ node track.js <your package number>
 ```
 With this it will load the available data once.
+
+### TODO List:
+- [ ] track multiple items at once
+- [ ] better output - maybe with tables
+- [ ] better handling of the messages
